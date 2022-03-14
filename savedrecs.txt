@@ -1,0 +1,328 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Rogachev, NG
+   Rogachev, GN
+AF Rogachev, N. G.
+   Rogachev, G. N.
+BE Nikulchev, EV
+   Korsun, ON
+TI Model-Based Optimization in Induction Heating of Thin-Wall Shells
+SO 2019 WORKSHOP ON MATERIALS AND ENGINEERING IN AERONAUTICS
+SE IOP Conference Series-Materials Science and Engineering
+CT Workshop on Materials and Engineering in Aeronautics (MEA)
+CY OCT 16-17, 2019
+CL Natl Res Univ, Moscow Aviat Inst, Moscow, RUSSIA
+HO Natl Res Univ, Moscow Aviat Inst
+SN 1757-8981
+PY 2020
+VL 714
+AR 012025
+DI 10.1088/1757-899X/714/1/012025
+UT WOS:000539540600025
+ER
+
+PT J
+AU Mitroshin, VN
+   Rogachev, GN
+   Chostkovskii, BK
+   Rogachev, NG
+AF Mitroshin, V. N.
+   Rogachev, G. N.
+   Chostkovskii, B. K.
+   Rogachev, N. G.
+TI Fuzzy Optimization in Discrete-Continuous Control Systems for
+   Multiple-Operation Technological Processes
+SO OPTOELECTRONICS INSTRUMENTATION AND DATA PROCESSING
+SN 8756-6990
+EI 1934-7944
+PD JUL
+PY 2019
+VL 55
+IS 4
+BP 376
+EP 382
+DI 10.3103/S8756699019040083
+UT WOS:000490020900008
+ER
+
+PT C
+AU Patkin, ML
+   Rogachev, GN
+   Rogachev, NG
+AF Patkin, M. L.
+   Rogachev, G. N.
+   Rogachev, N. G.
+BE Nikulchev, EV
+   Korsun, ON
+TI Neural Net Based Multi-Agent Mobile Robots Control System: Practical
+   Implementation on Different Platform
+SO WORKSHOP ON MATERIALS AND ENGINEERING IN AERONAUTICS (MEA)
+SE IOP Conference Series-Materials Science and Engineering
+CT Workshop on Materials and Engineering in Aeronautics (MEA)
+CY NOV 15-16, 2018
+CL Natl Res Univ, Moscow Aviat Inst, Moscow, RUSSIA
+HO Natl Res Univ, Moscow Aviat Inst
+SN 1757-8981
+PY 2019
+VL 476
+AR 012022
+DI 10.1088/1757-899X/476/1/012022
+UT WOS:000462235500022
+ER
+
+PT C
+AU Rogachev, G
+   Rogachev, N
+AF Rogachev, Gennadiy
+   Rogachev, Nikolay
+BE Nikitov, SA
+   Bykov, DE
+   Borovik, SY
+   Pleshivtseva, YE
+TI Modeling and Fuzzy Optimization of Thin-Wall Shells Induction Heating
+SO 2019 XXI INTERNATIONAL CONFERENCE COMPLEX SYSTEMS: CONTROL AND MODELING
+   PROBLEMS (CSCMP)
+CT 21st International Conference on Complex Systems - Control and Modeling
+   Problems (CSCMP)
+CY SEP 03-06, 2019
+CL Samara, RUSSIA
+SP Russian Acad Sci, Inst Control Complex Syst, Samara State Tech Univ, Volga Reg
+BN 978-1-7281-6700-8
+PY 2019
+BP 245
+EP 248
+UT WOS:000542910900046
+ER
+
+PT C
+AU Patkin, ML
+   Rogachev, GN
+AF Patkin, M. L.
+   Rogachev, G. N.
+GP IOP
+TI Construction of multi-agent mobile robots control system in the problem
+   of persecution with using a modified reinforcement learning method based
+   on neural networks
+SO 2017 WORKSHOP ON MATERIALS AND ENGINEERING IN AERONAUTICS (MEA2017)
+SE IOP Conference Series-Materials Science and Engineering
+CT Workshop on Materials and Engineering in Aeronautics (MEA)
+CY NOV 15-16, 2017
+CL Natl Res Univ, Moscow Aviat Inst, Moscow, RUSSIA
+SP Moscow Inst Phys & Technol, Moscow Technol Inst
+HO Natl Res Univ, Moscow Aviat Inst
+SN 1757-8981
+PY 2018
+VL 312
+AR 012018
+DI 10.1088/1757-899X/312/1/012018
+UT WOS:000443994400018
+ER
+
+PT C
+AU Peschansky, AI
+   Rogachev, GN
+   Kovalenko, AI
+AF Peschansky, A. I.
+   Rogachev, G. N.
+   Kovalenko, A. I.
+GP IOP
+TI Optimization of maintenance period for the elements of
+   resource-supplying networks with branching structure
+SO 2017 WORKSHOP ON MATERIALS AND ENGINEERING IN AERONAUTICS (MEA2017)
+SE IOP Conference Series-Materials Science and Engineering
+CT Workshop on Materials and Engineering in Aeronautics (MEA)
+CY NOV 15-16, 2017
+CL Natl Res Univ, Moscow Aviat Inst, Moscow, RUSSIA
+SP Moscow Inst Phys & Technol, Moscow Technol Inst
+HO Natl Res Univ, Moscow Aviat Inst
+RI , Peschansky/AAC-3202-2020
+SN 1757-8981
+PY 2018
+VL 312
+AR 012019
+DI 10.1088/1757-899X/312/1/012019
+UT WOS:000443994400019
+ER
+
+PT C
+AU Rogachev, GN
+   Rogachev, NG
+   Patkin, ML
+AF Rogachev, G. N.
+   Rogachev, N. G.
+   Patkin, M. L.
+GP IEEE
+TI Fuzzy Optimization in the Problem of Forklifts Path Planning
+SO 2018 INTERNATIONAL SCIENTIFIC MULTI-CONFERENCE ON INDUSTRIAL ENGINEERING
+   AND MODERN TECHNOLOGIES (FAREASTCON)
+CT International Scientific Multi-Conference on Industrial Engineering and
+   Modern Technologies (FarEastCon)
+CY OCT 02-04, 2018
+CL Vladivostok, RUSSIA
+SP Far Eastern Fed Univ, NE Fed Univ, Amur State Univ Humanities & Pedag, Far Eastern State Transport Univ, Komsomolsk Amur State Techn Univ, Amur State Univ, Vladivostok State Univ Econ & Serv, Acad, Construct & Architecture, Res Inst Bldg Phys & Fencing Construct, Russian Acad Sci, Econ Res Inst Far Eastern Branch, Pacific Natl Univ, Russian Fdn Basic Res
+BN 978-1-5386-9535-7
+PY 2018
+UT WOS:000459848500237
+ER
+
+PT C
+AU Dmitriev, A
+   Mitroshkina, T
+   Rogachev, G
+AF Dmitriev, Aleksandr
+   Mitroshkina, Tatyana
+   Rogachev, Gennady
+BE Nikulchev, E
+   Bubnov, G
+TI Structural and Parametric Analysis of Robust Design Quality of Complex
+   Technical Systems
+SO 2017 SEMINAR ON SYSTEMS ANALYSIS
+SE ITM Web of Conferences
+CT Seminar on Systems Analysis
+CY FEB 14-15, 2017
+CL Moscow, RUSSIA
+RI Rogachev, Gennady/D-7412-2014; Dmitriev, Aleksandr Ya/S-8130-2016;
+   Mitroshkina, Tatyana/R-2364-2016
+OI Rogachev, Gennady/0000-0002-4602-4644; Dmitriev, Aleksandr
+   Ya/0000-0002-9237-1989; Mitroshkina, Tatyana/0000-0002-2223-2131
+SN 2271-2097
+PY 2017
+VL 10
+AR 01001
+DI 10.1051/itmconf/20171001001
+UT WOS:000406704600001
+ER
+
+PT C
+AU Kovalenko, A
+   Rogachev, G
+AF Kovalenko, Anna
+   Rogachev, Gennagi
+BE Nikulchev, EV
+   Korsun, ON
+TI Application of Queuing Systems with Ultimate Reliability to Optimize the
+   Operation of Drones
+SO 2016 WORKSHOP ON CONTEMPORARY MATERIALS AND TECHNOLOGIES IN THE AVIATION
+   INDUSTRY (CMTAI2016)
+SE MATEC Web of Conferences
+CT Workshop on Contemporary Materials and Technologies in the Aviation
+   Industry (CMTAI)
+CY DEC 15-16, 2016
+CL Moscow, RUSSIA
+RI Rogacev, Gennadii N./D-7412-2014
+OI Rogacev, Gennadii N./0000-0002-4602-4644
+SN 2261-236X
+PY 2017
+VL 99
+AR 02005
+DI 10.1051/matecconf/20179902005
+UT WOS:000407853400009
+ER
+
+PT C
+AU Rogachev, G
+   Patkin, M
+   Rogachev, N
+AF Rogachev, Gennady
+   Patkin, Mikhail
+   Rogachev, Nikolai
+BE Nikulchev, E
+   Bubnov, G
+TI Real-time Evolutionary Computation in the Control of Mobile
+   Cyber-Physics System
+SO 2017 SEMINAR ON SYSTEMS ANALYSIS
+SE ITM Web of Conferences
+CT Seminar on Systems Analysis
+CY FEB 14-15, 2017
+CL Moscow, RUSSIA
+RI Rogachev, Nikolai/AAK-2304-2021; Rogachev, Gennady/D-7412-2014
+OI Rogachev, Gennady/0000-0002-4602-4644
+SN 2271-2097
+PY 2017
+VL 10
+AR 02006
+DI 10.1051/itmconf/20171002006
+UT WOS:000406704600014
+ER
+
+PT C
+AU Kovalenko, A
+   Rogachev, G
+AF Kovalenko, Anna
+   Rogachev, Gennady
+BE Nikulchev, EV
+   Veremey, EI
+TI Multicriterial optimization of preventive maintenance of
+   informational/technical stochastic system
+SO 6TH SEMINAR ON INDUSTRIAL CONTROL SYSTEMS: ANALYSIS, MODELING AND
+   COMPUTATION
+SE ITM Web of Conferences
+CT 6th Seminar on Industrial Control Systems - Analysis, Modeling and
+   Computation
+CY FEB 25-26, 2016
+CL Moscow, RUSSIA
+RI Rogachev, Gennady/D-7412-2014
+OI Rogachev, Gennady/0000-0002-4602-4644
+SN 2271-2097
+PY 2016
+VL 6
+AR 01002
+DI 10.1051/itmconf/20160601002
+UT WOS:000386311900002
+ER
+
+PT C
+AU Pleshivtseva, Y
+   Rogachev, G
+   Popov, A
+AF Pleshivtseva, Yulia
+   Rogachev, Gennady
+   Popov, Anton
+BE Ivanova, SV
+   Nikulchev, EV
+TI MATLAB-FLUX Coupling for numerical modeling in education
+SO 2016 INTERNATIONAL CONFERENCE EDUCATION ENVIRONMENT FOR THE INFORMATION
+   AGE (EEIA-2016)
+SE SHS Web of Conferences
+CT International Conference on Education Environment for the Information
+   Age (EEIA)
+CY JUN 06-07, 2016
+CL Moscow, RUSSIA
+RI Popov, Anton/S-1608-2016; Pleshivtseva, Yulia/D-6586-2014; Rogachev,
+   Gennady/D-7412-2014
+OI Pleshivtseva, Yulia/0000-0001-5344-1094; Rogachev,
+   Gennady/0000-0002-4602-4644
+SN 2261-2424
+PY 2016
+VL 29
+AR 02033
+DI 10.1051/shsconf/20162902033
+UT WOS:000387539200112
+ER
+
+PT C
+AU Rogachev, GN
+   Tyan, PV
+AF Rogachev, Gennady N.
+   Tyan, Pavel V.
+BE Petrosyan, LA
+   Zhabko, AP
+TI Fuzzy Goals and Constraints in Mobile Robot Motion Planning Problem in a
+   Heterogeneous Environment
+SO 2015 INTERNATIONAL CONFERENCE "STABILITY AND CONTROL PROCESSES" IN
+   MEMORY OF V.I. ZUBOV (SCP)
+CT International Conference on Stability and Control Processes in Memory of
+   V.I. Zubov (SCP)
+CY OCT 05-09, 2015
+CL St Petersburg, RUSSIA
+RI Rogachev, Gennady/D-7412-2014
+OI Rogachev, Gennady/0000-0002-4602-4644
+BN 978-1-4673-7698-3
+PY 2015
+BP 589
+EP 592
+UT WOS:000380403400167
+ER
+
+EF

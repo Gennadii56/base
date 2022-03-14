@@ -1,0 +1,666 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Rogachev, NG
+   Rogachev, GN
+AF Rogachev, N. G.
+   Rogachev, G. N.
+BE Nikulchev, EV
+   Korsun, ON
+TI Model-Based Optimization in Induction Heating of Thin-Wall Shells
+SO 2019 WORKSHOP ON MATERIALS AND ENGINEERING IN AERONAUTICS
+SE IOP Conference Series-Materials Science and Engineering
+LA English
+DT Proceedings Paper
+CT Workshop on Materials and Engineering in Aeronautics (MEA)
+CY OCT 16-17, 2019
+CL Natl Res Univ, Moscow Aviat Inst, Moscow, RUSSIA
+HO Natl Res Univ, Moscow Aviat Inst
+DE fuzzy optimization; control; modeling; induction heating; thin-walled
+   shell
+AB A mathematical model of induction heating process of paramagnetic thin-wall shells was considered. Electromagnetic processes in the system "inductor heated shell-temperature equalization devices" are modelled by the method of coupled circuits, thermal processes by the differential-difference method. The model is implemented in MATLAB and is used to optimize the heating process based on partial criteria that are formulated in fuzzy form.
+C1 [Rogachev, N. G.; Rogachev, G. N.] Samara State Tech Univ, Inst Automat & Informat Technol, Samara, Russia.
+RP Rogachev, NG (автор для корреспонденции), Samara State Tech Univ, Inst Automat & Informat Technol, Samara, Russia.
+EM grogachev@mail.ru
+FU RFBRRussian Foundation for Basic Research (RFBR) [19-38-90061]
+FX The reported study was funded by RFBR, project number 19-38-90061.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1757-8981
+J9 IOP CONF SER-MAT SCI
+PY 2020
+VL 714
+AR 012025
+DI 10.1088/1757-899X/714/1/012025
+PG 4
+WC Engineering, Aerospace; Materials Science, Multidisciplinary
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Materials Science
+GA BP1JS
+UT WOS:000539540600025
+OA gold
+DA 2022-03-05
+ER
+
+PT J
+AU Mitroshin, VN
+   Rogachev, GN
+   Chostkovskii, BK
+   Rogachev, NG
+AF Mitroshin, V. N.
+   Rogachev, G. N.
+   Chostkovskii, B. K.
+   Rogachev, N. G.
+TI Fuzzy Optimization in Discrete-Continuous Control Systems for
+   Multiple-Operation Technological Processes
+SO OPTOELECTRONICS INSTRUMENTATION AND DATA PROCESSING
+LA English
+DT Article
+DE control system; fuzzy optimization; multiple-operation processes
+AB A numerical method for designing operating software for digital controllers of hybrid discrete-continuous control systems is considered. The method is based on implementing control algorithms on digital controller in the form of rule-based systems and uses a fuzzy optimization procedure to define controller operation rules. The continuous part of hybrid control systems consists of multiple-operation technological chains, which are nonlinear, multidimensional and multi-loop plants, and the discrete part consists of digital controllers. The developed digital controllers ensure satisfaction of the most general requirements for controlled processes, including fuzzy ones.
+C1 [Mitroshin, V. N.; Rogachev, G. N.; Chostkovskii, B. K.; Rogachev, N. G.] Samara State Tech Univ, Ul Molodogvardeiskaya 244, Samara 443100, Russia.
+RP Rogachev, GN (автор для корреспонденции), Samara State Tech Univ, Ul Molodogvardeiskaya 244, Samara 443100, Russia.
+EM grogacheva@mail.ru
+FU Russian Foundation for Basic ResearchRussian Foundation for Basic
+   Research (RFBR) [18-08-00506]
+FX This work was supported by the Russian Foundation for Basic Research
+   (Grant No. 18-08-00506).
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 3
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 8756-6990
+EI 1934-7944
+J9 OPTOELECTRON INSTRUM
+JI Optoelectron. Instrum. Data Proc.
+PD JUL
+PY 2019
+VL 55
+IS 4
+BP 376
+EP 382
+DI 10.3103/S8756699019040083
+PG 7
+WC Physics, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Physics
+GA JD5KC
+UT WOS:000490020900008
+DA 2022-03-05
+ER
+
+PT C
+AU Patkin, ML
+   Rogachev, GN
+   Rogachev, NG
+AF Patkin, M. L.
+   Rogachev, G. N.
+   Rogachev, N. G.
+BE Nikulchev, EV
+   Korsun, ON
+TI Neural Net Based Multi-Agent Mobile Robots Control System: Practical
+   Implementation on Different Platform
+SO WORKSHOP ON MATERIALS AND ENGINEERING IN AERONAUTICS (MEA)
+SE IOP Conference Series-Materials Science and Engineering
+LA English
+DT Proceedings Paper
+CT Workshop on Materials and Engineering in Aeronautics (MEA)
+CY NOV 15-16, 2018
+CL Natl Res Univ, Moscow Aviat Inst, Moscow, RUSSIA
+HO Natl Res Univ, Moscow Aviat Inst
+AB Mobile robot control is a challenging task due to the need for lightning-fast decision making in a rapidly changing environment. We propose neural net with reinforcement learning based control system which can simultaneously manage mobile robots and communicate with other partners. The Actor Critic approach is used but we divide the Actor into the Communication Actor and Action Actor. Due to the fact that, unlike the classical approach, additional neural networks appeared, the question of optimization arose. We propose implementation of control system on three different platform: desktop, mobile and embedded platform with VPU acceleration. We demonstrate that we achieve similar performance and speed of low power embedded and mobile devices and full power desktop PC with modern GPU acceleration.
+C1 [Patkin, M. L.; Rogachev, G. N.; Rogachev, N. G.] Samara State Tech Univ, Samara 443100, Russia.
+RP Patkin, ML (автор для корреспонденции), Samara State Tech Univ, Samara 443100, Russia.
+EM patkinm@gmail.com; grogachev@mail.ru; rogachev8@mail.ru
+FU RFBRRussian Foundation for Basic Research (RFBR) [18-08-00506A]; Samara
+   Region [17-48-630410p-a]
+FX The reported study was funded by RFBR according to the research project
+   No. 18-08-00506A and by RFBR with Samara Region according to the
+   research project No. 17-48-630410p-a.
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1757-8981
+J9 IOP CONF SER-MAT SCI
+PY 2019
+VL 476
+AR 012022
+DI 10.1088/1757-899X/476/1/012022
+PG 4
+WC Engineering, Aerospace; Materials Science, Multidisciplinary
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Materials Science
+GA BM3LC
+UT WOS:000462235500022
+OA gold
+DA 2022-03-05
+ER
+
+PT C
+AU Rogachev, G
+   Rogachev, N
+AF Rogachev, Gennadiy
+   Rogachev, Nikolay
+BE Nikitov, SA
+   Bykov, DE
+   Borovik, SY
+   Pleshivtseva, YE
+TI Modeling and Fuzzy Optimization of Thin-Wall Shells Induction Heating
+SO 2019 XXI INTERNATIONAL CONFERENCE COMPLEX SYSTEMS: CONTROL AND MODELING
+   PROBLEMS (CSCMP)
+LA English
+DT Proceedings Paper
+CT 21st International Conference on Complex Systems - Control and Modeling
+   Problems (CSCMP)
+CY SEP 03-06, 2019
+CL Samara, RUSSIA
+SP Russian Acad Sci, Inst Control Complex Syst, Samara State Tech Univ, Volga Reg
+DE induction heating; inductively coupled circuits; differential-difference
+   mathematical model; fuzzy optimization
+AB A mathematical model of induction heating process of paramagnetic thin-wall shells is considered. Electromagnetic processes in the system "inductor-heated shell-temperature equalization devices" are modeled by the method of coupled circuits, thermal processes are computed by the differential-difference method. The model is implemented in MATLAB and is used to optimize the heating process based on partial criteria that are formulated in fuzzy optimization form.
+C1 [Rogachev, Gennadiy; Rogachev, Nikolay] Samara State Tech Univ, Samara, Russia.
+RP Rogachev, G (автор для корреспонденции), Samara State Tech Univ, Samara, Russia.
+EM grogachev@mail.ru; rogachev8@mail.ru
+FU RFBRRussian Foundation for Basic Research (RFBR) [18-0800506,
+   19-38-90061]
+FX The reported study was funded by RFBR, projects number 18-0800506 and
+   number 19-38-90061
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-7281-6700-8
+PY 2019
+BP 245
+EP 248
+PG 4
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Multidisciplinary
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BP2IQ
+UT WOS:000542910900046
+DA 2022-03-05
+ER
+
+PT C
+AU Patkin, ML
+   Rogachev, GN
+AF Patkin, M. L.
+   Rogachev, G. N.
+GP IOP
+TI Construction of multi-agent mobile robots control system in the problem
+   of persecution with using a modified reinforcement learning method based
+   on neural networks
+SO 2017 WORKSHOP ON MATERIALS AND ENGINEERING IN AERONAUTICS (MEA2017)
+SE IOP Conference Series-Materials Science and Engineering
+LA English
+DT Proceedings Paper
+CT Workshop on Materials and Engineering in Aeronautics (MEA)
+CY NOV 15-16, 2017
+CL Natl Res Univ, Moscow Aviat Inst, Moscow, RUSSIA
+SP Moscow Inst Phys & Technol, Moscow Technol Inst
+HO Natl Res Univ, Moscow Aviat Inst
+AB A method for constructing a multi-agent control system for mobile robots based on training with reinforcement using deep neural networks is considered. Synthesis of the management system is proposed to be carried out with reinforcement training and the modified Actor-Critic method, in which the Actor module is divided into Action Actor and Communication Actor in order to simultaneously manage mobile robots and communicate with partners. Communication is carried out by sending partners at each step a vector of real numbers that are added to the observation vector and affect the behaviour. Functions of Actors and Critic are approximated by deep neural networks. The Critics value function is trained by using the TD-error method and the Actor's function by using DDPG. The Communication Actor's neural network is trained through gradients received from partner agents. An environment in which a cooperative multi-agent interaction is present was developed, computer simulation of the application of this method in the control problem of two robots pursuing two goals was carried out.
+C1 [Patkin, M. L.; Rogachev, G. N.] Samara State Tech Univ, Samara, Russia.
+RP Patkin, ML (автор для корреспонденции), Samara State Tech Univ, Samara, Russia.
+EM patkinm@gmail.com; grogachev@mail.ru
+FU RFBRRussian Foundation for Basic Research (RFBR); Samara Region
+   [17-48-630410]
+FX The reported study was funded by RFBR and Samara Region according to the
+   research project No 17-48-630410.
+NR 9
+TC 1
+Z9 1
+U1 1
+U2 3
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1757-8981
+J9 IOP CONF SER-MAT SCI
+PY 2018
+VL 312
+AR 012018
+DI 10.1088/1757-899X/312/1/012018
+PG 5
+WC Engineering, Aerospace; Materials Science, Multidisciplinary
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Materials Science
+GA BK8XX
+UT WOS:000443994400018
+OA gold
+DA 2022-03-05
+ER
+
+PT C
+AU Peschansky, AI
+   Rogachev, GN
+   Kovalenko, AI
+AF Peschansky, A. I.
+   Rogachev, G. N.
+   Kovalenko, A. I.
+GP IOP
+TI Optimization of maintenance period for the elements of
+   resource-supplying networks with branching structure
+SO 2017 WORKSHOP ON MATERIALS AND ENGINEERING IN AERONAUTICS (MEA2017)
+SE IOP Conference Series-Materials Science and Engineering
+LA English
+DT Proceedings Paper
+CT Workshop on Materials and Engineering in Aeronautics (MEA)
+CY NOV 15-16, 2017
+CL Natl Res Univ, Moscow Aviat Inst, Moscow, RUSSIA
+SP Moscow Inst Phys & Technol, Moscow Technol Inst
+HO Natl Res Univ, Moscow Aviat Inst
+AB A restorable system with linear branching structure and finite reliability is considered. Preventive maintenance of its elements is carried out. Operation and restoration periods are assumed to be random values of general kind Iteration processes of calculation of stationary reliability and economical characteristics of the network are constructed. Optimal intervals between elements' maintenance are obtained as the functions of their times-to-failure. The examples of electricity supply network and commutation network equipment at the enterprise are given. The optimal choice of elements' preventive maintenance is shown to result in economical network indexes improvement.
+C1 [Peschansky, A. I.] Sevastopol State Univ, Sevastopol, Russia.
+   [Rogachev, G. N.; Kovalenko, A. I.] Samara State Tech Univ, Samara, Russia.
+RP Rogachev, GN (автор для корреспонденции), Samara State Tech Univ, Samara, Russia.
+EM grogachev@mail.ru
+RI , Peschansky/AAC-3202-2020
+FU RFBRRussian Foundation for Basic Research (RFBR); Samara Region
+   [17-48-630410]
+FX The reported study was funded by RFBR and Samara Region according to the
+   research project No 17-48-630410
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 2
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 1757-8981
+J9 IOP CONF SER-MAT SCI
+PY 2018
+VL 312
+AR 012019
+DI 10.1088/1757-899X/312/1/012019
+PG 6
+WC Engineering, Aerospace; Materials Science, Multidisciplinary
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Materials Science
+GA BK8XX
+UT WOS:000443994400019
+OA gold
+DA 2022-03-05
+ER
+
+PT C
+AU Rogachev, GN
+   Rogachev, NG
+   Patkin, ML
+AF Rogachev, G. N.
+   Rogachev, N. G.
+   Patkin, M. L.
+GP IEEE
+TI Fuzzy Optimization in the Problem of Forklifts Path Planning
+SO 2018 INTERNATIONAL SCIENTIFIC MULTI-CONFERENCE ON INDUSTRIAL ENGINEERING
+   AND MODERN TECHNOLOGIES (FAREASTCON)
+LA English
+DT Proceedings Paper
+CT International Scientific Multi-Conference on Industrial Engineering and
+   Modern Technologies (FarEastCon)
+CY OCT 02-04, 2018
+CL Vladivostok, RUSSIA
+SP Far Eastern Fed Univ, NE Fed Univ, Amur State Univ Humanities & Pedag, Far Eastern State Transport Univ, Komsomolsk Amur State Techn Univ, Amur State Univ, Vladivostok State Univ Econ & Serv, Acad, Construct & Architecture, Res Inst Bldg Phys & Fencing Construct, Russian Acad Sci, Econ Res Inst Far Eastern Branch, Pacific Natl Univ, Russian Fdn Basic Res
+DE robotized forklift; fuzzy optimization; hybrid discrete-continuous
+   system; numerical procedure; system of rules
+ID NAVIGATION
+AB The procedure of fuzzy optimization is considered as the problem of forklift path planning in a changing environment for a number of typical situations differing in the goals of the forklift and the constraints imposed both on control resources and on the behavior of forklifts. Simultaneously with the construction of trajectories of forklift, the synthesis of algorithms for the work of digital controllers of forklift control systems as hybrid continuous-discrete systems is carried out. The procedure for constructing control systems with fuzzy goals and constraints is based on the representation of control algorithms in the form of a priori non-fixed and time-variable systems of rules.
+C1 [Rogachev, G. N.] Samara State Tech Univ, Automat & Informat Technol Dept, Samara, Russia.
+   [Rogachev, N. G.] SSI Schaefer, Samara, Russia.
+   [Patkin, M. L.] Wesee AI Ltd, London, England.
+RP Rogachev, GN (автор для корреспонденции), Samara State Tech Univ, Automat & Informat Technol Dept, Samara, Russia.
+EM grogachev@mail.ru; rogachev8@mail.ru; patkinm@gmail.com
+FU RFBRRussian Foundation for Basic Research (RFBR) [18-08-00506,
+   17-48-630410]; Samara Region [17-48-630410]
+FX The reported study was funded by RFBR according to the research project
+   18-08-00506 and by RFBR and Samara Region according to the research
+   project 17-48-630410.
+NR 11
+TC 0
+Z9 0
+U1 1
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-9535-7
+PY 2018
+PG 5
+WC Engineering, Industrial
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering
+GA BM1ID
+UT WOS:000459848500237
+DA 2022-03-05
+ER
+
+PT C
+AU Dmitriev, A
+   Mitroshkina, T
+   Rogachev, G
+AF Dmitriev, Aleksandr
+   Mitroshkina, Tatyana
+   Rogachev, Gennady
+BE Nikulchev, E
+   Bubnov, G
+TI Structural and Parametric Analysis of Robust Design Quality of Complex
+   Technical Systems
+SO 2017 SEMINAR ON SYSTEMS ANALYSIS
+SE ITM Web of Conferences
+LA English
+DT Proceedings Paper
+CT Seminar on Systems Analysis
+CY FEB 14-15, 2017
+CL Moscow, RUSSIA
+AB Discussed the approaches to robust design of complex technical systems based on Quality Function Deployment method QFD. It demonstrates how to use the matrix approach to the implementation of QFD, which enables the structural and parametric analysis of the quality of complex technical systems in conditions of uncertainty and ill-conditioning problem
+C1 [Dmitriev, Aleksandr; Mitroshkina, Tatyana] Samara Natl Res Univ, Samara 443086, Russia.
+   [Dmitriev, Aleksandr] Samara Reg State Acad Nayanova, Samara 443010, Russia.
+   [Rogachev, Gennady] Samara State Tech Univ, Samara 443100, Russia.
+RP Mitroshkina, T (автор для корреспонденции), Samara Natl Res Univ, Samara 443086, Russia.
+EM t.mitroshkina@gmail.com
+RI Rogachev, Gennady/D-7412-2014; Dmitriev, Aleksandr Ya/S-8130-2016;
+   Mitroshkina, Tatyana/R-2364-2016
+OI Rogachev, Gennady/0000-0002-4602-4644; Dmitriev, Aleksandr
+   Ya/0000-0002-9237-1989; Mitroshkina, Tatyana/0000-0002-2223-2131
+NR 8
+TC 2
+Z9 2
+U1 0
+U2 2
+PU E D P SCIENCES
+PI CEDEX A
+PA 17 AVE DU HOGGAR PARC D ACTIVITES COUTABOEUF BP 112, F-91944 CEDEX A,
+   FRANCE
+SN 2271-2097
+J9 ITM WEB CONF
+PY 2017
+VL 10
+AR 01001
+DI 10.1051/itmconf/20171001001
+PG 3
+WC Operations Research & Management Science; Mathematics, Interdisciplinary
+   Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Operations Research & Management Science; Mathematics
+GA BI1QK
+UT WOS:000406704600001
+OA gold, Green Published, Green Submitted
+DA 2022-03-05
+ER
+
+PT C
+AU Kovalenko, A
+   Rogachev, G
+AF Kovalenko, Anna
+   Rogachev, Gennagi
+BE Nikulchev, EV
+   Korsun, ON
+TI Application of Queuing Systems with Ultimate Reliability to Optimize the
+   Operation of Drones
+SO 2016 WORKSHOP ON CONTEMPORARY MATERIALS AND TECHNOLOGIES IN THE AVIATION
+   INDUSTRY (CMTAI2016)
+SE MATEC Web of Conferences
+LA English
+DT Proceedings Paper
+CT Workshop on Contemporary Materials and Technologies in the Aviation
+   Industry (CMTAI)
+CY DEC 15-16, 2016
+CL Moscow, RUSSIA
+AB Multi-criteria problem of optimization of maintenance rate for drones is set and solved. Analytical characteristics of a single-server queueing system with ultimate reliability and imitation models are applied. The analysis of economical and reliability characteristics dependence on some parameters is made.
+C1 [Kovalenko, Anna; Rogachev, Gennagi] Samara State Tech Univ, Samara 443100, Russia.
+RP Rogachev, G (автор для корреспонденции), Samara State Tech Univ, Samara 443100, Russia.
+EM grogachev@mail.ru
+RI Rogacev, Gennadii N./D-7412-2014
+OI Rogacev, Gennadii N./0000-0002-4602-4644
+FU Ministry of Education and Science of Russian FederationMinistry of
+   Education and Science, Russian Federation
+FX This work was financially supported by Ministry of Education and Science
+   of Russian Federation (basic part of government contract).
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 3
+PU E D P SCIENCES
+PI CEDEX A
+PA 17 AVE DU HOGGAR PARC D ACTIVITES COUTABOEUF BP 112, F-91944 CEDEX A,
+   FRANCE
+SN 2261-236X
+J9 MATEC WEB CONF
+PY 2017
+VL 99
+AR 02005
+DI 10.1051/matecconf/20179902005
+PG 3
+WC Engineering, Aerospace
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering
+GA BI2AX
+UT WOS:000407853400009
+OA gold, Green Published
+DA 2022-03-05
+ER
+
+PT C
+AU Rogachev, G
+   Patkin, M
+   Rogachev, N
+AF Rogachev, Gennady
+   Patkin, Mikhail
+   Rogachev, Nikolai
+BE Nikulchev, E
+   Bubnov, G
+TI Real-time Evolutionary Computation in the Control of Mobile
+   Cyber-Physics System
+SO 2017 SEMINAR ON SYSTEMS ANALYSIS
+SE ITM Web of Conferences
+LA English
+DT Proceedings Paper
+CT Seminar on Systems Analysis
+CY FEB 14-15, 2017
+CL Moscow, RUSSIA
+AB The procedure of the time-optimal controller synthesis in the mobile cyber-physical system control problems in the form of the Dubins car is considered. In the decision quality assessment, the total time spent on executing the task of transferring an object to a given point is taken into account, including the time for the control program calculation and the time of the object movement to the target. Both online and offline variants of the production model numerical determination of the controller as a system of rules "condition" - "action" are considered. As an online variant, it is suggested to use an anytime genetic algorithm. A comparison between online and offline methods of calculating a rule system for the regulator performance is made. The advantages of the online method in solving the problem of transferring the mobile cyber physical system in a homogeneous environment and the advantages of an offline method in a heterogeneous environment are demonstrated.
+C1 [Rogachev, Gennady; Patkin, Mikhail; Rogachev, Nikolai] Samara State Tech Univ, Samara 443100, Russia.
+RP Rogachev, G (автор для корреспонденции), Samara State Tech Univ, Samara 443100, Russia.
+EM grogachev@mail.ru
+RI Rogachev, Nikolai/AAK-2304-2021; Rogachev, Gennady/D-7412-2014
+OI Rogachev, Gennady/0000-0002-4602-4644
+FU Ministry of Education and Science of Russian FederationMinistry of
+   Education and Science, Russian Federation
+FX This work was financially supported by Ministry of Education and Science
+   of Russian Federation (basic part of government contract).
+NR 6
+TC 1
+Z9 1
+U1 0
+U2 2
+PU E D P SCIENCES
+PI CEDEX A
+PA 17 AVE DU HOGGAR PARC D ACTIVITES COUTABOEUF BP 112, F-91944 CEDEX A,
+   FRANCE
+SN 2271-2097
+J9 ITM WEB CONF
+PY 2017
+VL 10
+AR 02006
+DI 10.1051/itmconf/20171002006
+PG 4
+WC Operations Research & Management Science; Mathematics, Interdisciplinary
+   Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Operations Research & Management Science; Mathematics
+GA BI1QK
+UT WOS:000406704600014
+OA Green Published, gold
+DA 2022-03-05
+ER
+
+PT C
+AU Kovalenko, A
+   Rogachev, G
+AF Kovalenko, Anna
+   Rogachev, Gennady
+BE Nikulchev, EV
+   Veremey, EI
+TI Multicriterial optimization of preventive maintenance of
+   informational/technical stochastic system
+SO 6TH SEMINAR ON INDUSTRIAL CONTROL SYSTEMS: ANALYSIS, MODELING AND
+   COMPUTATION
+SE ITM Web of Conferences
+LA English
+DT Proceedings Paper
+CT 6th Seminar on Industrial Control Systems - Analysis, Modeling and
+   Computation
+CY FEB 25-26, 2016
+CL Moscow, RUSSIA
+AB The problem of optimization of reliability and economical indexes is solved for informational/technical system with periodical diagnostics and restoration. The system considered is the one with users accesses and errors occurring. The probability that the error occurs increases in time. Therefore, the longer is the restoration period the more there is a risk of system operation with error. But too frequent restoration can be too expensive. To take into account all these factors two-criteria optimization is made with the restriction of reliability characteristic being of the given level.
+C1 [Kovalenko, Anna; Rogachev, Gennady] Samara State Tech Univ, Samara 443100, Russia.
+RP Kovalenko, A (автор для корреспонденции), Samara State Tech Univ, Samara 443100, Russia.
+EM annushka199@bk.ru
+RI Rogachev, Gennady/D-7412-2014
+OI Rogachev, Gennady/0000-0002-4602-4644
+NR 7
+TC 1
+Z9 1
+U1 0
+U2 3
+PU E D P SCIENCES
+PI CEDEX A
+PA 17 AVE DU HOGGAR PARC D ACTIVITES COUTABOEUF BP 112, F-91944 CEDEX A,
+   FRANCE
+SN 2271-2097
+J9 ITM WEB CONF
+PY 2016
+VL 6
+AR 01002
+DI 10.1051/itmconf/20160601002
+PG 3
+WC Automation & Control Systems; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Automation & Control Systems; Mathematics
+GA BG0KO
+UT WOS:000386311900002
+OA gold, Green Submitted, Green Published
+DA 2022-03-05
+ER
+
+PT C
+AU Pleshivtseva, Y
+   Rogachev, G
+   Popov, A
+AF Pleshivtseva, Yulia
+   Rogachev, Gennady
+   Popov, Anton
+BE Ivanova, SV
+   Nikulchev, EV
+TI MATLAB-FLUX Coupling for numerical modeling in education
+SO 2016 INTERNATIONAL CONFERENCE EDUCATION ENVIRONMENT FOR THE INFORMATION
+   AGE (EEIA-2016)
+SE SHS Web of Conferences
+LA English
+DT Proceedings Paper
+CT International Conference on Education Environment for the Information
+   Age (EEIA)
+CY JUN 06-07, 2016
+CL Moscow, RUSSIA
+ID MULTIOBJECTIVE DESIGN OPTIMIZATION
+AB This paper describes the structure of optimization procedure based on a multi-paradigm numerical computing environment MATLAB and FEM software for numerical analysis in Electrical Engineering Higher Education. The procedure presented is developed and used in educational process at Samara State Technical University (SamSTU) for optimization of interrelated electromagnetic and temperature fields during induction heating processes. Some study cases are shown for optimization of static induction heating processes based on 2D numerical FLUX model.
+C1 [Pleshivtseva, Yulia; Rogachev, Gennady; Popov, Anton] Samara State Tech Univ, Samara 443100, Russia.
+RP Rogachev, G (автор для корреспонденции), Samara State Tech Univ, Samara 443100, Russia.
+EM yulia_pl@mail.ru
+RI Popov, Anton/S-1608-2016; Pleshivtseva, Yulia/D-6586-2014; Rogachev,
+   Gennady/D-7412-2014
+OI Pleshivtseva, Yulia/0000-0001-5344-1094; Rogachev,
+   Gennady/0000-0002-4602-4644
+NR 10
+TC 1
+Z9 1
+U1 0
+U2 7
+PU E D P SCIENCES
+PI CEDEX A
+PA 17 AVE DU HOGGAR PARC D ACTIVITES COUTABOEUF BP 112, F-91944 CEDEX A,
+   FRANCE
+SN 2261-2424
+J9 SHS WEB CONF
+PY 2016
+VL 29
+AR 02033
+DI 10.1051/shsconf/20162902033
+PG 5
+WC Education & Educational Research
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Education & Educational Research
+GA BG2OY
+UT WOS:000387539200112
+OA Green Published, gold, Green Submitted
+DA 2022-03-05
+ER
+
+PT C
+AU Rogachev, GN
+   Tyan, PV
+AF Rogachev, Gennady N.
+   Tyan, Pavel V.
+BE Petrosyan, LA
+   Zhabko, AP
+TI Fuzzy Goals and Constraints in Mobile Robot Motion Planning Problem in a
+   Heterogeneous Environment
+SO 2015 INTERNATIONAL CONFERENCE "STABILITY AND CONTROL PROCESSES" IN
+   MEMORY OF V.I. ZUBOV (SCP)
+LA English
+DT Proceedings Paper
+CT International Conference on Stability and Control Processes in Memory of
+   V.I. Zubov (SCP)
+CY OCT 05-09, 2015
+CL St Petersburg, RUSSIA
+AB In this paper we consider the problem of mobile robot motion planning in a heterogeneous environment consisting of mandatory to visit zone and prohibited areas. Control system rules synthesis is proposed to be conducted with vaguely defined requirements for object behaviour. Examples of using this method for solving the problem of mobile robot control system synthesis are given.
+C1 [Rogachev, Gennady N.; Tyan, Pavel V.] Samara State Tech Univ, Dept Automat & Informat Technol, Samara, Russia.
+RP Rogachev, GN (автор для корреспонденции), Samara State Tech Univ, Dept Automat & Informat Technol, Samara, Russia.
+EM grogachev@mail.ru; ouji.tp@gmail.com
+RI Rogachev, Gennady/D-7412-2014
+OI Rogachev, Gennady/0000-0002-4602-4644
+NR 8
+TC 1
+Z9 1
+U1 0
+U2 4
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4673-7698-3
+PY 2015
+BP 589
+EP 592
+PG 4
+WC Automation & Control Systems; Engineering, Electrical & Electronic
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Automation & Control Systems; Engineering
+GA BF1JW
+UT WOS:000380403400167
+DA 2022-03-05
+ER
+
+EF
