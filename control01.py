@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 23 12:13:41 2022
 
-@author: gen
+@author: NOgen
 """
 
 #!/usr/bin/env python3
