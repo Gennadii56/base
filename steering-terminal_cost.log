@@ -1,1139 +1,131 @@
 INFO:root:New optimal control problem initailized
-INFO:root:_constraint_function called at: 137.375
+INFO:root:_constraint_function called at: 7.60938
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.391
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.391
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.391
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.391
+INFO:root:_constraint_function called at: 7.60938
 INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.406
+INFO:root:_constraint_function called at: 7.625
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.406
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.406
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.422
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.422
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.422
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.438
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.438
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.438
+INFO:root:_constraint_function called at: 7.625
 INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.453
+INFO:root:_constraint_function called at: 7.64062
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.453
+INFO:root:_constraint_function called at: 7.64062
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.453
+INFO:root:_constraint_function called at: 7.65625
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.453
+INFO:root:_constraint_function called at: 7.65625
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_constraint_function called at: 7.65625
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_constraint_function called at: 7.65625
 INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.469
+INFO:root:_constraint_function called at: 7.67188
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.469
+INFO:root:_constraint_function called at: 7.67188
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.469
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.484
+INFO:root:_constraint_function called at: 7.67188
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 137.484
+INFO:root:_constraint_function called at: 7.67188
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_constraint_function called at: 7.67188
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_constraint_function called at: 7.67188
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_constraint_function called at: 7.67188
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_constraint_function called at: 7.67188
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_constraint_function called at: 7.6875
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_constraint_function called at: 7.6875
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_constraint_function called at: 7.6875
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_constraint_function called at: 7.70312
+INFO:root:_constraint_function elapsed time: 0
+INFO:root:_cost_function called at: 7.70312
 INFO:root:_cost_function returning 1570.37; elapsed time: 0
-INFO:root:_cost_function called at: 137.484
+INFO:root:_cost_function called at: 7.70312
 INFO:root:_cost_function returning 1570.81; elapsed time: 0
-INFO:root:_cost_function called at: 137.484
+INFO:root:_cost_function called at: 7.70312
 INFO:root:_cost_function returning 1571.44; elapsed time: 0
-INFO:root:_cost_function called at: 137.484
-INFO:root:_cost_function returning 1570.37; elapsed time: 0
-INFO:root:_cost_function called at: 137.484
+INFO:root:_cost_function called at: 7.70312
+INFO:root:_cost_function returning 1570.37; elapsed time: 0.015625
+INFO:root:_cost_function called at: 7.71875
 INFO:root:_cost_function returning 1572.25; elapsed time: 0
-INFO:root:_cost_function called at: 137.484
-INFO:root:_cost_function returning 1571.62; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.5
+INFO:root:_cost_function called at: 7.71875
+INFO:root:_cost_function returning 1571.62; elapsed time: 0
+INFO:root:_cost_function called at: 7.71875
 INFO:root:_cost_function returning 1570.37; elapsed time: 0
-INFO:root:_cost_function called at: 137.5
+INFO:root:_cost_function called at: 7.71875
 INFO:root:_cost_function returning 1570.37; elapsed time: 0
-INFO:root:_cost_function called at: 137.5
-INFO:root:_cost_function returning 1573.1; elapsed time: 0
-INFO:root:_cost_function called at: 137.5
-INFO:root:_cost_function returning 1570.19; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.516
+INFO:root:_cost_function called at: 7.71875
+INFO:root:_cost_function returning 1573.1; elapsed time: 0.015625
+INFO:root:_cost_function called at: 7.73438
+INFO:root:_cost_function returning 1570.19; elapsed time: 0
+INFO:root:_cost_function called at: 7.73438
 INFO:root:_cost_function returning 1571.03; elapsed time: 0
-INFO:root:_cost_function called at: 137.516
+INFO:root:_cost_function called at: 7.73438
 INFO:root:_cost_function returning 2039.72; elapsed time: 0
-INFO:root:_cost_function called at: 137.516
-INFO:root:_cost_function returning 2508.37; elapsed time: 0
-INFO:root:_cost_function called at: 137.516
-INFO:root:_cost_function returning 2302.07; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.531
+INFO:root:_cost_function called at: 7.73438
+INFO:root:_cost_function returning 2508.37; elapsed time: 0.015625
+INFO:root:_cost_function called at: 7.75
+INFO:root:_cost_function returning 2302.07; elapsed time: 0
+INFO:root:_cost_function called at: 7.75
 INFO:root:_cost_function returning 2263.69; elapsed time: 0
-INFO:root:_cost_function called at: 137.531
-INFO:root:_cost_function returning 2086.38; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.547
+INFO:root:_cost_function called at: 7.75
+INFO:root:_cost_function returning 2086.38; elapsed time: 0.03125
+INFO:root:_cost_function called at: 7.78125
 INFO:root:_cost_function returning 1570.37; elapsed time: 0
-INFO:root:_cost_function called at: 137.547
+INFO:root:_cost_function called at: 7.78125
 INFO:root:_cost_function returning 1570.37; elapsed time: 0
-INFO:root:_cost_function called at: 137.547
+INFO:root:_cost_function called at: 7.78125
 INFO:root:_cost_function returning 1836.67; elapsed time: 0
-INFO:root:_cost_function called at: 137.547
+INFO:root:_cost_function called at: 7.78125
 INFO:root:_cost_function returning 1667.01; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.562
+INFO:root:_cost_function called at: 7.79688
 INFO:root:_cost_function returning 1595.5; elapsed time: 0
-INFO:root:_constraint_function called at: 137.562
+INFO:root:_constraint_function called at: 7.79688
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.562
+INFO:root:_constraint_function called at: 7.79688
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.562
+INFO:root:_constraint_function called at: 7.79688
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.562
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.578
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.594
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.594
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.594
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.609
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.609
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.609
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.609
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.625
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.625
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.625
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.641
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.641
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.656
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.656
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.656
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.656
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.672
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 137.672
-INFO:root:_cost_function returning 31076.7; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.688
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 137.688
-INFO:root:_cost_function returning 78620; elapsed time: 0
-INFO:root:_constraint_function called at: 137.688
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 137.688
-INFO:root:_cost_function returning 3523.1; elapsed time: 0
-INFO:root:_constraint_function called at: 137.688
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 137.703
-INFO:root:_cost_function returning 0.724776; elapsed time: 0
-INFO:root:_constraint_function called at: 137.703
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 137.703
-INFO:root:_cost_function returning 0.828248; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.719
-INFO:root:_cost_function returning 0.702149; elapsed time: 0
-INFO:root:_cost_function called at: 137.719
-INFO:root:_cost_function returning 0.728582; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.734
-INFO:root:_cost_function returning 0.71869; elapsed time: 0
-INFO:root:_cost_function called at: 137.734
-INFO:root:_cost_function returning 0.711995; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.75
-INFO:root:_cost_function returning 0.693412; elapsed time: 0
-INFO:root:_cost_function called at: 137.75
-INFO:root:_cost_function returning 0.715226; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.766
-INFO:root:_cost_function returning 0.60105; elapsed time: 0
-INFO:root:_cost_function called at: 137.766
-INFO:root:_cost_function returning 0.757261; elapsed time: 0.03125
-INFO:root:_cost_function called at: 137.797
-INFO:root:_cost_function returning 0.577595; elapsed time: 0
-INFO:root:_cost_function called at: 137.797
-INFO:root:_cost_function returning 22.4324; elapsed time: 0
-INFO:root:_cost_function called at: 137.797
-INFO:root:_cost_function returning 92.1621; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.812
-INFO:root:_cost_function returning 69.2828; elapsed time: 0
-INFO:root:_cost_function called at: 137.812
-INFO:root:_cost_function returning 50.5505; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.828
-INFO:root:_cost_function returning 45.7744; elapsed time: 0
-INFO:root:_cost_function called at: 137.828
-INFO:root:_cost_function returning 21.4874; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.844
-INFO:root:_cost_function returning 12.6516; elapsed time: 0
-INFO:root:_cost_function called at: 137.844
-INFO:root:_cost_function returning 4.40583; elapsed time: 0.015625
-INFO:root:_cost_function called at: 137.859
-INFO:root:_cost_function returning 0.875702; elapsed time: 0
-INFO:root:_cost_function called at: 137.859
-INFO:root:_cost_function returning 0.651752; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.875
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.875
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.891
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.891
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.891
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.906
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.922
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.922
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.938
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.953
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.953
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.969
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.969
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 137.984
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 137.984
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.016
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.016
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.031
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.031
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.047
-INFO:root:_cost_function returning 30240.4; elapsed time: 0
-INFO:root:_constraint_function called at: 138.047
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.047
-INFO:root:_cost_function returning 228.044; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.062
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.062
-INFO:root:_cost_function returning 11.6954; elapsed time: 0
-INFO:root:_constraint_function called at: 138.062
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.062
-INFO:root:_cost_function returning 3.32287; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.078
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.078
-INFO:root:_cost_function returning 1.63001; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.094
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.094
-INFO:root:_cost_function returning 0.92656; elapsed time: 0
-INFO:root:_constraint_function called at: 138.094
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.094
-INFO:root:_cost_function returning 0.761065; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.109
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.109
-INFO:root:_cost_function returning 0.834488; elapsed time: 0
-INFO:root:_constraint_function called at: 138.125
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.125
-INFO:root:_cost_function returning 0.730198; elapsed time: 0
-INFO:root:_constraint_function called at: 138.125
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.125
-INFO:root:_cost_function returning 0.784924; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.141
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.141
-INFO:root:_cost_function returning 0.824745; elapsed time: 0
-INFO:root:_constraint_function called at: 138.141
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.156
-INFO:root:_cost_function returning 0.790246; elapsed time: 0
-INFO:root:_cost_function called at: 138.156
-INFO:root:_cost_function returning 0.713234; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.172
-INFO:root:_cost_function returning 0.862995; elapsed time: 0
-INFO:root:_cost_function called at: 138.172
-INFO:root:_cost_function returning 0.826318; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.188
-INFO:root:_cost_function returning 0.80165; elapsed time: 0
-INFO:root:_cost_function called at: 138.188
-INFO:root:_cost_function returning 0.73317; elapsed time: 0
-INFO:root:_cost_function called at: 138.188
-INFO:root:_cost_function returning 0.828567; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.203
-INFO:root:_cost_function returning 0.653021; elapsed time: 0
-INFO:root:_cost_function called at: 138.203
-INFO:root:_cost_function returning 0.750915; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.219
-INFO:root:_cost_function returning 0.577897; elapsed time: 0
-INFO:root:_cost_function called at: 138.219
-INFO:root:_cost_function returning 22.4222; elapsed time: 0
-INFO:root:_cost_function called at: 138.219
-INFO:root:_cost_function returning 92.0448; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.234
-INFO:root:_cost_function returning 69.2575; elapsed time: 0
-INFO:root:_cost_function called at: 138.234
-INFO:root:_cost_function returning 50.3483; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.25
-INFO:root:_cost_function returning 33.1388; elapsed time: 0
-INFO:root:_cost_function called at: 138.25
-INFO:root:_cost_function returning 20.6805; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.266
-INFO:root:_cost_function returning 12.3861; elapsed time: 0
-INFO:root:_cost_function called at: 138.266
-INFO:root:_cost_function returning 4.09666; elapsed time: 0.03125
-INFO:root:_cost_function called at: 138.297
-INFO:root:_cost_function returning 0.875863; elapsed time: 0
-INFO:root:_cost_function called at: 138.297
-INFO:root:_cost_function returning 0.653304; elapsed time: 0
-INFO:root:_constraint_function called at: 138.297
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.312
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.328
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.328
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.344
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.344
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.359
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.375
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.375
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.391
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.391
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.406
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.406
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.422
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.422
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.438
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.438
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.453
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.469
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.469
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.484
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.484
-INFO:root:_cost_function returning 38507.2; elapsed time: 0
-INFO:root:_constraint_function called at: 138.484
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.484
-INFO:root:_cost_function returning 314.291; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.5
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.5
-INFO:root:_cost_function returning 12.7577; elapsed time: 0
-INFO:root:_constraint_function called at: 138.5
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.5
-INFO:root:_cost_function returning 3.48835; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.516
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.516
-INFO:root:_cost_function returning 1.75329; elapsed time: 0
-INFO:root:_constraint_function called at: 138.516
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.516
-INFO:root:_cost_function returning 0.934619; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.531
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.531
-INFO:root:_cost_function returning 0.794485; elapsed time: 0
-INFO:root:_constraint_function called at: 138.531
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.547
-INFO:root:_cost_function returning 0.718089; elapsed time: 0
-INFO:root:_constraint_function called at: 138.547
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.547
-INFO:root:_cost_function returning 0.843923; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.562
-INFO:root:_cost_function returning 0.790244; elapsed time: 0
-INFO:root:_cost_function called at: 138.562
-INFO:root:_cost_function returning 0.704333; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.578
-INFO:root:_cost_function returning 0.71231; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.594
-INFO:root:_cost_function returning 0.707072; elapsed time: 0
-INFO:root:_cost_function called at: 138.594
-INFO:root:_cost_function returning 0.720965; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.609
-INFO:root:_cost_function returning 0.70176; elapsed time: 0
-INFO:root:_cost_function called at: 138.609
-INFO:root:_cost_function returning 0.930663; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.625
-INFO:root:_cost_function returning 0.685248; elapsed time: 0
-INFO:root:_cost_function called at: 138.625
-INFO:root:_cost_function returning 0.907126; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.641
-INFO:root:_cost_function returning 21.9894; elapsed time: 0
-INFO:root:_cost_function called at: 138.641
-INFO:root:_cost_function returning 89.7172; elapsed time: 0
-INFO:root:_cost_function called at: 138.641
-INFO:root:_cost_function returning 66.3411; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.656
-INFO:root:_cost_function returning 49.0902; elapsed time: 0
-INFO:root:_cost_function called at: 138.656
-INFO:root:_cost_function returning 32.9357; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.672
-INFO:root:_cost_function returning 21.2952; elapsed time: 0
-INFO:root:_cost_function called at: 138.672
-INFO:root:_cost_function returning 13.2192; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.688
-INFO:root:_cost_function returning 4.05047; elapsed time: 0
-INFO:root:_cost_function called at: 138.688
-INFO:root:_cost_function returning 0.882966; elapsed time: 0
-INFO:root:_cost_function called at: 138.688
-INFO:root:_cost_function returning 0.695518; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.703
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.703
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.719
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.719
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.734
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.734
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.75
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.766
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.766
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.781
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.797
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.797
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.812
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.812
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.828
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.844
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.844
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.859
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.859
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.875
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 138.875
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.891
-INFO:root:_cost_function returning 43082.8; elapsed time: 0
-INFO:root:_constraint_function called at: 138.891
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.891
-INFO:root:_cost_function returning 427.797; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.906
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.906
-INFO:root:_cost_function returning 13.3493; elapsed time: 0
-INFO:root:_constraint_function called at: 138.906
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.906
-INFO:root:_cost_function returning 3.04138; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.922
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.922
-INFO:root:_cost_function returning 1.39162; elapsed time: 0
-INFO:root:_constraint_function called at: 138.922
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.922
-INFO:root:_cost_function returning 0.85623; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.938
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.938
-INFO:root:_cost_function returning 0.789915; elapsed time: 0
-INFO:root:_constraint_function called at: 138.938
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.938
-INFO:root:_cost_function returning 0.755647; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.953
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.953
-INFO:root:_cost_function returning 0.707836; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 138.969
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.969
-INFO:root:_cost_function returning 0.711054; elapsed time: 0
-INFO:root:_constraint_function called at: 138.969
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 138.969
-INFO:root:_cost_function returning 0.946291; elapsed time: 0.015625
-INFO:root:_cost_function called at: 138.984
-INFO:root:_cost_function returning 0.742062; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139
-INFO:root:_cost_function returning 0.698131; elapsed time: 0
-INFO:root:_cost_function called at: 139
-INFO:root:_cost_function returning 0.704969; elapsed time: 0
-INFO:root:_cost_function called at: 139
-INFO:root:_cost_function returning 0.70008; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.016
-INFO:root:_cost_function returning 0.712069; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.031
-INFO:root:_cost_function returning 0.694752; elapsed time: 0
-INFO:root:_cost_function called at: 139.031
-INFO:root:_cost_function returning 0.859023; elapsed time: 0
-INFO:root:_cost_function called at: 139.031
-INFO:root:_cost_function returning 0.688201; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.047
-INFO:root:_cost_function returning 1.02847; elapsed time: 0
-INFO:root:_cost_function called at: 139.047
-INFO:root:_cost_function returning 21.9658; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.062
-INFO:root:_cost_function returning 89.5843; elapsed time: 0
-INFO:root:_cost_function called at: 139.062
-INFO:root:_cost_function returning 66.7315; elapsed time: 0
-INFO:root:_cost_function called at: 139.062
-INFO:root:_cost_function returning 48.8758; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.078
-INFO:root:_cost_function returning 38.5764; elapsed time: 0
-INFO:root:_cost_function called at: 139.078
-INFO:root:_cost_function returning 20.6589; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.094
-INFO:root:_cost_function returning 9.9139; elapsed time: 0
-INFO:root:_cost_function called at: 139.094
-INFO:root:_cost_function returning 3.23956; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.109
-INFO:root:_cost_function returning 0.86954; elapsed time: 0
-INFO:root:_cost_function called at: 139.109
-INFO:root:_cost_function returning 0.70327; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.125
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.141
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.141
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.156
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.156
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.172
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.172
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.188
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.203
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.203
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.219
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.219
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.234
+INFO:root:_constraint_function called at: 7.8125
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.234
+INFO:root:_constraint_function called at: 7.8125
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.234
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.25
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.25
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.266
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.281
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.281
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.297
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.297
-INFO:root:_cost_function returning 24514.9; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.312
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.312
-INFO:root:_cost_function returning 25279.3; elapsed time: 0
-INFO:root:_constraint_function called at: 139.312
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.312
-INFO:root:_cost_function returning 237.891; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.328
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.328
-INFO:root:_cost_function returning 11.1459; elapsed time: 0
-INFO:root:_constraint_function called at: 139.328
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.328
-INFO:root:_cost_function returning 2.99616; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.344
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.344
-INFO:root:_cost_function returning 1.64618; elapsed time: 0
-INFO:root:_constraint_function called at: 139.344
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.344
-INFO:root:_cost_function returning 1.05357; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.359
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.359
-INFO:root:_cost_function returning 0.805085; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.375
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.375
-INFO:root:_cost_function returning 0.748432; elapsed time: 0
-INFO:root:_constraint_function called at: 139.375
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.375
-INFO:root:_cost_function returning 0.72641; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.391
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.391
-INFO:root:_cost_function returning 0.717449; elapsed time: 0
-INFO:root:_constraint_function called at: 139.391
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.391
-INFO:root:_cost_function returning 0.945751; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.406
-INFO:root:_cost_function returning 0.750283; elapsed time: 0
-INFO:root:_cost_function called at: 139.406
-INFO:root:_cost_function returning 0.704468; elapsed time: 0.03125
-INFO:root:_cost_function called at: 139.438
-INFO:root:_cost_function returning 0.711414; elapsed time: 0
-INFO:root:_cost_function called at: 139.438
-INFO:root:_cost_function returning 0.706413; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.453
-INFO:root:_cost_function returning 0.718594; elapsed time: 0
-INFO:root:_cost_function called at: 139.453
-INFO:root:_cost_function returning 0.701115; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.469
-INFO:root:_cost_function returning 0.869657; elapsed time: 0
-INFO:root:_cost_function called at: 139.469
-INFO:root:_cost_function returning 0.694147; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.484
-INFO:root:_cost_function returning 1.03346; elapsed time: 0
-INFO:root:_cost_function called at: 139.484
-INFO:root:_cost_function returning 21.959; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.5
-INFO:root:_cost_function returning 89.5091; elapsed time: 0
-INFO:root:_cost_function called at: 139.5
-INFO:root:_cost_function returning 66.3609; elapsed time: 0
-INFO:root:_cost_function called at: 139.5
-INFO:root:_cost_function returning 49.7866; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.516
-INFO:root:_cost_function returning 32.3639; elapsed time: 0
-INFO:root:_cost_function called at: 139.516
-INFO:root:_cost_function returning 20.5523; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.531
-INFO:root:_cost_function returning 10.2344; elapsed time: 0
-INFO:root:_cost_function called at: 139.531
-INFO:root:_cost_function returning 3.30419; elapsed time: 0
-INFO:root:_cost_function called at: 139.531
-INFO:root:_cost_function returning 0.864166; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.547
-INFO:root:_cost_function returning 0.707575; elapsed time: 0
-INFO:root:_constraint_function called at: 139.547
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.562
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.578
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.578
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.594
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.609
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.625
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.641
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.656
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.656
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.672
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.672
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.688
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.703
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.719
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.719
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.734
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.734
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.75
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 139.75
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.766
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.766
-INFO:root:_cost_function returning 28496; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.781
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.797
-INFO:root:_cost_function returning 12419.6; elapsed time: 0
-INFO:root:_constraint_function called at: 139.797
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.797
-INFO:root:_cost_function returning 14040.8; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.812
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.812
-INFO:root:_cost_function returning 148.469; elapsed time: 0
-INFO:root:_constraint_function called at: 139.812
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.812
-INFO:root:_cost_function returning 10.1513; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.828
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.844
-INFO:root:_cost_function returning 2.70971; elapsed time: 0
-INFO:root:_constraint_function called at: 139.844
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.844
-INFO:root:_cost_function returning 1.51616; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.859
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.859
-INFO:root:_cost_function returning 1.16928; elapsed time: 0
-INFO:root:_constraint_function called at: 139.859
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.859
-INFO:root:_cost_function returning 0.940648; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 139.875
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.875
-INFO:root:_cost_function returning 0.758009; elapsed time: 0
-INFO:root:_constraint_function called at: 139.875
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.891
-INFO:root:_cost_function returning 0.732248; elapsed time: 0
-INFO:root:_constraint_function called at: 139.891
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 139.891
-INFO:root:_cost_function returning 0.922335; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.906
-INFO:root:_cost_function returning 0.786069; elapsed time: 0
-INFO:root:_cost_function called at: 139.906
-INFO:root:_cost_function returning 0.718902; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.922
-INFO:root:_cost_function returning 0.726404; elapsed time: 0
-INFO:root:_cost_function called at: 139.922
-INFO:root:_cost_function returning 0.721067; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.938
-INFO:root:_cost_function returning 0.734205; elapsed time: 0
-INFO:root:_cost_function called at: 139.938
-INFO:root:_cost_function returning 0.715847; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.953
-INFO:root:_cost_function returning 0.912142; elapsed time: 0
-INFO:root:_cost_function called at: 139.953
-INFO:root:_cost_function returning 0.704918; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.969
-INFO:root:_cost_function returning 1.03026; elapsed time: 0
-INFO:root:_cost_function called at: 139.969
-INFO:root:_cost_function returning 21.9523; elapsed time: 0
-INFO:root:_cost_function called at: 139.969
-INFO:root:_cost_function returning 89.4056; elapsed time: 0.015625
-INFO:root:_cost_function called at: 139.984
-INFO:root:_cost_function returning 65.746; elapsed time: 0
-INFO:root:_cost_function called at: 139.984
-INFO:root:_cost_function returning 49.7118; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140
-INFO:root:_cost_function returning 32.0155; elapsed time: 0
-INFO:root:_cost_function called at: 140
-INFO:root:_cost_function returning 20.1082; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.016
-INFO:root:_cost_function returning 11.0475; elapsed time: 0
-INFO:root:_cost_function called at: 140.016
-INFO:root:_cost_function returning 3.25949; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.031
-INFO:root:_cost_function returning 0.8576; elapsed time: 0
-INFO:root:_cost_function called at: 140.031
-INFO:root:_cost_function returning 0.713594; elapsed time: 0
-INFO:root:_constraint_function called at: 140.031
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.047
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.047
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.062
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.078
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.094
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.094
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.109
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.109
-INFO:root:_constraint_function elapsed time: 0.03125
-INFO:root:_constraint_function called at: 140.141
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.156
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.172
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.172
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.188
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.203
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.219
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.234
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.234
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.25
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.266
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.266
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.281
-INFO:root:_cost_function returning 87370.3; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.297
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.297
-INFO:root:_cost_function returning 1647.07; elapsed time: 0
-INFO:root:_constraint_function called at: 140.297
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.312
-INFO:root:_cost_function returning 21.8767; elapsed time: 0
-INFO:root:_constraint_function called at: 140.312
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.312
-INFO:root:_cost_function returning 4.00813; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.328
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.328
-INFO:root:_cost_function returning 1.46776; elapsed time: 0
-INFO:root:_constraint_function called at: 140.328
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.328
-INFO:root:_cost_function returning 1.16525; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.344
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.344
-INFO:root:_cost_function returning 1.08153; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.359
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.359
-INFO:root:_cost_function returning 0.801522; elapsed time: 0
-INFO:root:_constraint_function called at: 140.359
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.359
-INFO:root:_cost_function returning 0.745203; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.375
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.375
-INFO:root:_cost_function returning 0.736111; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.391
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.391
-INFO:root:_cost_function returning 0.733424; elapsed time: 0
-INFO:root:_constraint_function called at: 140.391
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.391
-INFO:root:_cost_function returning 0.930103; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.406
-INFO:root:_cost_function returning 0.789331; elapsed time: 0
-INFO:root:_cost_function called at: 140.406
-INFO:root:_cost_function returning 0.720039; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.422
-INFO:root:_cost_function returning 0.7276; elapsed time: 0
-INFO:root:_cost_function called at: 140.422
-INFO:root:_cost_function returning 0.722232; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.438
-INFO:root:_cost_function returning 0.735466; elapsed time: 0
-INFO:root:_cost_function called at: 140.453
-INFO:root:_cost_function returning 0.717016; elapsed time: 0
-INFO:root:_cost_function called at: 140.453
-INFO:root:_cost_function returning 0.916231; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.469
-INFO:root:_cost_function returning 0.705637; elapsed time: 0
-INFO:root:_cost_function called at: 140.469
-INFO:root:_cost_function returning 1.02962; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.484
-INFO:root:_cost_function returning 21.9492; elapsed time: 0
-INFO:root:_cost_function called at: 140.484
-INFO:root:_cost_function returning 89.4004; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.5
-INFO:root:_cost_function returning 65.7167; elapsed time: 0
-INFO:root:_cost_function called at: 140.5
-INFO:root:_cost_function returning 49.6937; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.516
-INFO:root:_cost_function returning 31.9346; elapsed time: 0
-INFO:root:_cost_function called at: 140.516
-INFO:root:_cost_function returning 20.1402; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.531
-INFO:root:_cost_function returning 10.9422; elapsed time: 0
-INFO:root:_cost_function called at: 140.531
-INFO:root:_cost_function returning 3.25768; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.547
-INFO:root:_cost_function returning 0.857549; elapsed time: 0
-INFO:root:_cost_function called at: 140.547
-INFO:root:_cost_function returning 0.713936; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.562
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.562
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.578
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.578
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.594
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.609
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.609
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.625
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.625
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.641
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.641
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.656
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.656
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.672
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.688
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.688
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.703
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.719
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.719
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 140.719
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.734
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.734
-INFO:root:_cost_function returning 69748.3; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.75
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.75
-INFO:root:_cost_function returning 1479.04; elapsed time: 0
-INFO:root:_constraint_function called at: 140.75
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.75
-INFO:root:_cost_function returning 19.6096; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.766
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.766
-INFO:root:_cost_function returning 3.8432; elapsed time: 0
-INFO:root:_constraint_function called at: 140.766
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.766
-INFO:root:_cost_function returning 1.52807; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.781
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.781
-INFO:root:_cost_function returning 1.03265; elapsed time: 0
-INFO:root:_constraint_function called at: 140.781
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.781
-INFO:root:_cost_function returning 0.987753; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.797
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.797
-INFO:root:_cost_function returning 1.05983; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.812
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.812
-INFO:root:_cost_function returning 0.752259; elapsed time: 0
-INFO:root:_constraint_function called at: 140.812
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.828
-INFO:root:_cost_function returning 0.737401; elapsed time: 0
-INFO:root:_constraint_function called at: 140.828
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.828
-INFO:root:_cost_function returning 0.73431; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 140.844
+INFO:root:_constraint_function called at: 7.8125
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 140.844
-INFO:root:_cost_function returning 0.933874; elapsed time: 0
-INFO:root:_cost_function called at: 140.844
-INFO:root:_cost_function returning 0.792134; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.859
-INFO:root:_cost_function returning 0.720889; elapsed time: 0
-INFO:root:_cost_function called at: 140.859
-INFO:root:_cost_function returning 0.728502; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.875
-INFO:root:_cost_function returning 0.72311; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.891
-INFO:root:_cost_function returning 0.736431; elapsed time: 0
-INFO:root:_cost_function called at: 140.891
-INFO:root:_cost_function returning 0.717898; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.906
-INFO:root:_cost_function returning 0.919821; elapsed time: 0
-INFO:root:_cost_function called at: 140.906
-INFO:root:_cost_function returning 0.706097; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.922
-INFO:root:_cost_function returning 1.02875; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.938
-INFO:root:_cost_function returning 21.9486; elapsed time: 0
-INFO:root:_cost_function called at: 140.938
-INFO:root:_cost_function returning 89.3984; elapsed time: 0
-INFO:root:_cost_function called at: 140.938
-INFO:root:_cost_function returning 65.7023; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.953
-INFO:root:_cost_function returning 49.6839; elapsed time: 0
-INFO:root:_cost_function called at: 140.953
-INFO:root:_cost_function returning 31.8867; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.969
-INFO:root:_cost_function returning 20.1634; elapsed time: 0
-INFO:root:_cost_function called at: 140.969
-INFO:root:_cost_function returning 10.1941; elapsed time: 0.015625
-INFO:root:_cost_function called at: 140.984
-INFO:root:_cost_function returning 3.25681; elapsed time: 0.015625
-INFO:root:_cost_function called at: 141
-INFO:root:_cost_function returning 0.857621; elapsed time: 0
-INFO:root:_cost_function called at: 141
-INFO:root:_cost_function returning 0.71407; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.016
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.016
+INFO:root:_constraint_function called at: 7.8125
 INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.031
+INFO:root:_constraint_function called at: 7.82812
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.031
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.047
+INFO:root:_constraint_function called at: 7.82812
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.047
+INFO:root:_constraint_function called at: 7.82812
 INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.062
+INFO:root:_constraint_function called at: 7.84375
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.062
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.078
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.094
+INFO:root:_constraint_function called at: 7.84375
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.094
+INFO:root:_constraint_function called at: 7.84375
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.094
+INFO:root:_constraint_function called at: 7.84375
 INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.109
+INFO:root:_constraint_function called at: 7.85938
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.109
+INFO:root:_constraint_function called at: 7.85938
 INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.125
+INFO:root:_constraint_function called at: 7.875
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.141
+INFO:root:_constraint_function called at: 7.875
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.141
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.156
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.156
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.172
+INFO:root:_constraint_function called at: 7.875
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_constraint_function called at: 141.172
-INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_cost_function called at: 141.188
-INFO:root:_cost_function returning 53114.4; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.203
+INFO:root:_constraint_function called at: 7.875
 INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 141.203
-INFO:root:_cost_function returning 2879.37; elapsed time: 0
-INFO:root:_constraint_function called at: 141.203
+INFO:root:_constraint_function called at: 7.875
 INFO:root:_constraint_function elapsed time: 0.015625
-INFO:root:_cost_function called at: 141.219
-INFO:root:_cost_function returning 36.8913; elapsed time: 0
-INFO:root:_constraint_function called at: 141.219
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 141.219
-INFO:root:_cost_function returning 4.1784; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.234
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 141.234
-INFO:root:_cost_function returning 1.54184; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.25
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 141.25
-INFO:root:_cost_function returning 1.0758; elapsed time: 0
-INFO:root:_constraint_function called at: 141.25
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 141.25
-INFO:root:_cost_function returning 0.958564; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.266
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 141.266
-INFO:root:_cost_function returning 1.08754; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.281
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 141.281
-INFO:root:_cost_function returning 0.746601; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.297
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 141.297
-INFO:root:_cost_function returning 0.736841; elapsed time: 0
-INFO:root:_constraint_function called at: 141.297
-INFO:root:_constraint_function elapsed time: 0
-INFO:root:_cost_function called at: 141.297
-INFO:root:_cost_function returning 0.73485; elapsed time: 0.015625
-INFO:root:_constraint_function called at: 141.312
+INFO:root:_constraint_function called at: 7.89062
 INFO:root:_constraint_function elapsed time: 0

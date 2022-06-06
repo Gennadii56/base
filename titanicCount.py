@@ -8,7 +8,7 @@ import pandas as pd
 import re
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
-df = pd.read_csv('C:/Users/gen/.spyder-py3/statist/base/titanic.csv', index_col='PassengerId')
+df = pd.read_csv('C:/PycharmProjects/base/titanic.csv', index_col='PassengerId')
 df.head()
 # Какое количество мужчин и женщин ехало на корабле? В качестве ответа приведите два числа через пробел
 sex_counts = df['Sex'].value_counts()

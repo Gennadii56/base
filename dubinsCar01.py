@@ -44,7 +44,7 @@ bend_left = [10, 0.01]        # slight left veer
 
 result = opt.solve_ocp(
     vehicle, horizon, x0, cost, constraints, initial_guess=bend_left,
-    options={'eps': 0.01})    # set step size for gradient calculation
+    minimize_options={'eps': 0.001})    # set step size for gradient calculation
 
 # Extract the results
 u = result.inputs
