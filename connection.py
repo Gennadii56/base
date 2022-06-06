@@ -5,7 +5,7 @@ Created on Mon Feb 21 09:14:37 2022
 @author: gen
 """
 import numpy as np
-import theano as th
+#import theano as th
 import keras as kr
 import matplotlib as mpl
 np.random.seed(123)  # for reproducibility
