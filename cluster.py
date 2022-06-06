@@ -11,7 +11,7 @@ from sklearn.datasets import make_blobs
 
 # #############################################################################
 # Generate sample data
-centers = [[1, 1], [-1, 1], [1, -1]]
+centers = [[0, 0], [-2, -2], [2, 2]]
 X, _ = make_blobs(n_samples=10000, centers=centers, cluster_std=0.6)
 
 # #############################################################################
