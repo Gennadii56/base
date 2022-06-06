@@ -17,3 +17,8 @@ plt.xlabel("$x$")
 plt.ylabel("$f(x)$")
 _ = plt.title("True generative process")
 plt.show()
+
+def sum(a, b):
+    print(a + b)
+
+sum(3, 6)
